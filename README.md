@@ -1,4 +1,4 @@
-# mousejiggler\
+# mousejiggler
 
 ### Description
 This program simulates mouse acitivity and right clicks every 60 seconds, ensuring that your computer does not lock, and that programs such as Microsoft Teams or Skype indicate that you are active and working away. 
